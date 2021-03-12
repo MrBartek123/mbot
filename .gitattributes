@@ -1,0 +1,2 @@
+*.java mbot-detectable=true
+*.python mbot-detectable=true
