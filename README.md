@@ -1,8 +1,5 @@
-# Discord 1337 Bot 🤖
+# Discord Bot 🤖
 
-A simple Discord bot that replies "damn it" whenever anyone says "1337"
-
-![](https://cdn.glitch.com/f1b80a31-0733-40fb-a0dd-44c8c80c155d%2Fscreenshot.png?1506425519756)
 
 ## Prerequisites
 
